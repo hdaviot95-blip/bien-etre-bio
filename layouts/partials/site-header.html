@@ -1,0 +1,22 @@
+<header class="cover bg-top" style='background-image: url("{{ "images/banniere_site.png" | relURL }}"); background-size: cover; background-position: center;'>
+  <div class="cover-dimming bg-black-60">
+    <div class="header-bar">
+      <a href="{{ .Site.BaseURL }}" class="site-logo">
+        <img src="{{ "images/logo.png" | relURL }}" alt="{{ .Site.Title }}">
+      </a>
+      {{ partials.Include "site-navigation.html" . }}
+    </div>
+
+    <div class="tc-l ph3 ph4-ns flex flex-column justify-center items-center cover-content">
+      <h1 class="f2 f-subheadline-l fw2 white-90 mb0 lh-title">
+        {{ .Title | compare.Default .Site.Title }}
+      </h1>
+      {{ with .Params.description }}
+        <h2 class="fw1 f5 f3-l white-80 measure-wide-l center mt3">
+          {{ . }}
+        </h2>
+      {{ end }}
+    </div>
+  </div>
+  <link rel="stylesheet" href="{{ "css/custom.css" | relURL }}">
+</header>

@@ -1,0 +1,122 @@
+/* Taille et style du logo */
+.site-logo img {
+  height: 60px;        /* tu peux tester 40px, 50px, 60px selon ton goût */
+  width: auto;
+  border-radius: 8px;
+  object-fit: contain;
+}
+
+/* Ajustement sur mobile */
+@media (max-width: 768px) {
+  .site-logo img {
+    height: 40px;
+  }
+}
+.cover {
+    max-height: 350px;      /* hauteur max de la bannière */
+    height: 400px;          /* hauteur fixe pour le header */
+    width: 100%;
+    background-size: cover;  /* conserve l’effet "cover" */
+    background-position: center;
+}
+.cover-dimming {
+    background-color: transparent !important;
+}
+
+/* Si le logo colle trop au menu, ajoute un peu d’espace */
+.header-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.5rem 1rem;
+}
+
+.site-logo {
+  display: flex;
+  align-items: center;
+}
+/* Conteneur de l'image */
+.summary-image-container {
+  flex: 0 0 auto;   /* empêche l'image de s'étirer */
+  width: 250px;      /* largeur fixe souhaitée */
+  max-width: 100%;   /* responsive */
+  margin-right: 1rem;
+}
+
+/* Image d’aperçu */
+.article-thumb {
+  width: 100%;       /* prend la largeur du conteneur */
+  height: auto;      /* garde les proportions */
+  border-radius: 8px;
+  object-fit: cover;
+  display: block;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .summary-image-container {
+    width: 90%;
+    margin: 0 auto 1rem;
+  }
+}
+/* Toutes les images dans le contenu des articles */
+article img {
+  border-radius: 12px !important; /* coins arrondis forcés */
+  object-fit: cover !important;
+  display: block !important;
+}
+
+/* Survol */
+article img:hover {
+  border-radius: 12px !important; /* garde les coins arrondis même au hover */
+}
+
+
+/* Toutes les images dans les articles */
+article .nested-copy-line-height img {
+  border-radius: 12px !important; /* force les coins arrondis */
+  object-fit: cover;
+  display: block;
+  overflow: hidden;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Survol : garder les coins arrondis */
+article .nested-copy-line-height img:hover {
+  transform: scale(1.03);
+  box-shadow: 0 6px 20px rgba(0,0,0,0.25);
+  border-radius: 12px !important; /* garde les coins arrondis même au hover */
+}
+
+/* S’assurer que le conteneur ne casse pas le border-radius */
+article .nested-copy-line-height {
+  overflow: hidden;
+}
+
+
+
+/* Responsive : garde les proportions */
+@media (max-width: 768px) {
+  article .nested-copy-line-height img {
+    width: 100%;
+    height: auto;
+  }
+}
+
+
+
+/* Coins arrondis pour toutes les images dans le contenu des articles */
+.single img {
+  border-radius: 8px !important;              /* force l'arrondi */
+  overflow: hidden !important;                /* évite que l'image déborde du conteneur */
+  display: block;
+  max-width: 100%;
+  height: auto;
+  object-fit: cover;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  margin: 1rem 0;
+}
+
+
+

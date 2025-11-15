@@ -1,0 +1,30 @@
+<div class="w-100 mb4 nested-copy-line-height relative bg-white">
+  <div class="mb3 pa4 gray overflow-hidden bg-white flex flex-column flex-row-l items-center">
+    
+    {{ with .Params.featured_image }}
+      <div class="mr3 mb3 mb0-l w-100 w-30-l">
+        <img src="{{ . | relURL }}" alt="image de {{ $.Title }}" class="article-thumb">
+      </div>
+    {{ end }}
+    
+    <div class="flex-grow-1">
+      {{ with .CurrentSection.Title }}
+        <span class="f6 db">{{ . }}</span>
+      {{ end }}
+
+      <h1 class="f3 near-black">
+        <a href="{{ .RelPermalink }}" class="link black dim">
+          {{ .Title }}
+        </a>
+      </h1>
+
+      <div class="nested-links f5 lh-copy nested-copy-line-height">
+        {{ .Summary | plainify }}
+      </div>
+
+      <a href="{{.RelPermalink}}" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">
+        {{ $.Param "read_more_copy" | compare.Default (lang.Translate "readMore") }}
+      </a>
+    </div>
+  </div>
+</div>

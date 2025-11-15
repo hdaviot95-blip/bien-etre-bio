@@ -1,0 +1,5 @@
+baseURL = "https://hdaviot95-blip.github.io/bien-etre-bio/"
+languageCode = "fr-fr"
+title = "Bien-Être Bio & Éco"
+customCSS = ["css/custom.css"]
+theme = "ananke"

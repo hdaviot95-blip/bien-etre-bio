@@ -1,0 +1,48 @@
+{{/* 1) Essayer d'obtenir l'image via featured_image */}}
+{{ $featured_image := partials.Include "func/GetFeaturedImage.html" . }}
+
+{{/* 2) Si pas d’image, extraire automatiquement la première image du contenu */}}
+{{ if not $featured_image }}
+  {{ $matches := findRE `!\[.*?\]\((.*?)\)` .RawContent }}
+  {{ if gt (len $matches) 0 }}
+    {{ $firstMatch := index $matches 0 }}
+    {{ $imgURL := replaceRE `!\[.*?\]\((.*?)\)` "$1" $firstMatch }}
+    {{/* On remplace $featured_image par l’URL trouvée */}}
+    {{ $featured_image = $imgURL }}
+  {{ end }}
+{{ end }}
+
+<article class="bb b--black-10">
+  <div class="db pv4 ph3 ph0-l dark-gray no-underline">
+    <div class="flex-column flex-row-ns flex">
+
+      {{ if $featured_image }}
+        <div class="summary-image-container mb4 mb0-ns">
+          <a href="{{ .RelPermalink }}" class="db">
+            <img src="{{ $featured_image | relURL }}" class="article-thumb" alt="image from {{ .Title }}">
+          </a>
+        </div>
+      {{ end }}
+
+      <div class="blah w-100{{ if $featured_image }} w-60-ns {{ compare.Conditional (compare.Eq $.Site.Language.LanguageDirection "rtl") "pr3-ns" "pl3-ns" }}{{ end }}">
+        <h1 class="f3 fw1 athelas mt0 lh-title">
+          <a href="{{ .RelPermalink }}" class="color-inherit dim link">
+            {{ .Title }}
+          </a>
+        </h1>
+
+        <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
+          {{ .Summary | plainify | truncate 375}}
+        </div>
+
+        {{ with .Params.author | compare.Default .Site.Params.author }}
+          <p class="f6 lh-copy mv0">By {{ . }}</p>
+        {{ end }}
+
+        <a href="{{ .RelPermalink }}" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">
+          {{ $.Param "read_more_copy" | compare.Default (lang.Translate "readMore") }}
+        </a>
+      </div>
+    </div>
+  </div>
+</article>

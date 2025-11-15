@@ -1,0 +1,53 @@
+/* Taille et style du logo */
+.site-logo img {
+  height: 60px;        /* tu peux tester 40px, 50px, 60px selon ton goût */
+  width: auto;
+  border-radius: 8px;
+  object-fit: contain;
+}
+
+/* Ajustement sur mobile */
+@media (max-width: 768px) {
+  .site-logo img {
+    height: 40px;
+  }
+}
+
+/* Si le logo colle trop au menu, ajoute un peu d’espace */
+.header-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.5rem 1rem;
+}
+
+.site-logo {
+  display: flex;
+  align-items: center;
+}
+/* Conteneur de l'image */
+.summary-image-container {
+  flex: 0 0 auto;   /* empêche l'image de s'étirer */
+  width: 250px;      /* largeur fixe souhaitée */
+  max-width: 100%;   /* responsive */
+  margin-right: 1rem;
+}
+
+/* Image d’aperçu */
+.article-thumb {
+  width: 100%;       /* prend la largeur du conteneur */
+  height: auto;      /* garde les proportions */
+  border-radius: 8px;
+  object-fit: cover;
+  display: block;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .summary-image-container {
+    width: 90%;
+    margin: 0 auto 1rem;
+  }
+}
+

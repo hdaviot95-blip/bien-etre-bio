@@ -1,0 +1,38 @@
+
+=== comment-purifier-l-air-int-rieur-naturellement.md ===
+Résumé : Le progrès scientifique peut jouer un rôle dans le changement du langage scientifiques en modifiant les connaissances humaines ou en créant des nouveaux modèles conceptuels. Les plantes et fleurs sont des sources naturelles d'oxygène qui peuvent purifier efficacement l'air intérieur, tandis que produits naturels comme les herbes fraîches et les cendres peuvent être utilisés pour purification de l'air intérieurs.
+
+[Prompt 1]
+Prompt : Photorealistic du jardin botanique avec des plantes vertes et une lumière naturelle douce., ultra réaliste, ultra détaillé
+Negative prompt : flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité
+
+[Prompt 2]
+Prompt : Image impressionnante d'une fleur bleue dans un vase rempli de fleurs jaunes, créant une ambiance magique., ultra réaliste, ultra détaillé
+Negative prompt : flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité
+
+[Prompt 3]
+Prompt : Portrait de la jardinière en train de planter des graines à l'aide de produits naturels comme les herbes fraîches ou les cendres., ultra réaliste, ultra détaillé
+Negative prompt : flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité
+
+[Prompt 4]
+Prompt : Scène du jardin botanique avec des plantes vertes et des animaux sauvages interagissant autour d'une fontaine., ultra réaliste, ultra détaillé
+Negative prompt : flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité
+
+=== les-avantages-du-caf-bio.md ===
+Résumé : Le café bio offre de nombreux avantages au corps, notamment sa qualité supérieure, ses principes durables et son impact positif sur la santé. Il est important de noter que les données ne sont pas toujours fiables et il faut se fier à des sources fiables pour en savoir plus.
+
+[Prompt 1]
+Prompt : Photo du barista professionnalisant un café bio avec une tasse dans une ambiance paisible., ultra réaliste, ultra détaillé
+Negative prompt : flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité
+
+[Prompt 2]
+Prompt : Image d'un groupe de personnes discutant autour d'une tasse de café bio sur le patio d'un restaurant., ultra réaliste, ultra détaillé
+Negative prompt : flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité
+
+[Prompt 3]
+Prompt : Vue aérienne des paysages verdoyants et fertilisés par les eaux de pluie, offrant une sensation de paix et de rejuvenation., ultra réaliste, ultra détaillé
+Negative prompt : flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité
+
+[Prompt 4]
+Prompt : Portrait du barista professionnalisant un café bio avec expression déterminée et respectueuse., ultra réaliste, ultra détaillé
+Negative prompt : flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité
