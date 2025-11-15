@@ -1,0 +1,19 @@
+/* === Styles pour le header avec logo === */
+
+.header-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+}
+
+.site-logo img {
+  height: 40px;
+  width: auto;
+  border-radius: 6px;
+  transition: transform 0.2s ease-in-out;
+}
+
+.site-logo img:hover {
+  transform: scale(1.05);
+}
