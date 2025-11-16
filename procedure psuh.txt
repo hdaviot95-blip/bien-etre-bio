@@ -1,0 +1,10 @@
+procedure 
+cd C:\Code Python\mon-site
+hugo --minify
+cd public
+git init
+git remote add origin https://github.com/hdaviot95-blip/bien-etre-bio.git
+git remote set-url origin https://github.com/hdaviot95-blip/bien-etre-bio.git
+git add .
+git commit -m "Déploiement Hugo"
+git push -u origin gh-pages --force
