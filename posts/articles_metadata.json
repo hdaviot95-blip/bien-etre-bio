@@ -1,17 +1,27 @@
 [
   {
-    "title": "1. les bienfaits de l'exercice physique pour la mémoire",
-    "slug": "1-les-bienfaits-de-l-exercice-physique-pour-la-m-moire",
-    "file_path": "C:\\Code Python\\mon-site\\content\\posts\\1-les-bienfaits-de-l-exercice-physique-pour-la-m-moire.md"
+    "title": "les bienfaits de l'exercice physique pour la mémoire",
+    "slug": "les-bienfaits-de-l-exercice-physique-pour-la-m-moire",
+    "file_path": "C:\\Code Python\\mon-site\\content\\posts\\les-bienfaits-de-l-exercice-physique-pour-la-m-moire.md"
   },
   {
-    "title": "2. la nutrition végétarienne : un guide complet",
-    "slug": "2-la-nutrition-v-g-tarienne-un-guide-complet",
-    "file_path": "C:\\Code Python\\mon-site\\content\\posts\\2-la-nutrition-v-g-tarienne-un-guide-complet.md"
+    "title": "la nutrition végétarienne : un guide complet",
+    "slug": "la-nutrition-v-g-tarienne-un-guide-complet",
+    "file_path": "C:\\Code Python\\mon-site\\content\\posts\\la-nutrition-v-g-tarienne-un-guide-complet.md"
   },
   {
-    "title": "3. l'importance du sommeil dans le bien-être mental et émotionnel",
-    "slug": "3-l-importance-du-sommeil-dans-le-bien-tre-mental-et-motionnel",
-    "file_path": "C:\\Code Python\\mon-site\\content\\posts\\3-l-importance-du-sommeil-dans-le-bien-tre-mental-et-motionnel.md"
+    "title": "l'importance du sommeil dans le bien-être mental et émotionnel",
+    "slug": "l-importance-du-sommeil-dans-le-bien-tre-mental-et-motionnel",
+    "file_path": "C:\\Code Python\\mon-site\\content\\posts\\l-importance-du-sommeil-dans-le-bien-tre-mental-et-motionnel.md"
+  },
+  {
+    "title": "L'impact du stress sur l'endormissement",
+    "slug": "l-impact-du-stress-sur-l-endormissement",
+    "file_path": "C:\\Code Python\\mon-site\\content\\posts\\l-impact-du-stress-sur-l-endormissement.md"
+  },
+  {
+    "title": "Les avantages de la méditation pour la santé mentale",
+    "slug": "les-avantages-de-la-m-ditation-pour-la-sant-mentale",
+    "file_path": "C:\\Code Python\\mon-site\\content\\posts\\les-avantages-de-la-m-ditation-pour-la-sant-mentale.md"
   }
 ]

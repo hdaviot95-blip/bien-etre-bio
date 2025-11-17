@@ -229,5 +229,93 @@
     "image_file": "comment-purifier-l-air-int-rieur-naturellement_para1.webp",
     "timestamp": "2025-11-16T14:39:04.949469",
     "traite": "oui"
+  },
+  {
+    "article": "l-impact-du-stress-sur-l-endormissement",
+    "paragraph": 1,
+    "prompt_fr": "Photo réaliste du corps humain ressourçant après une longue journée de travail stressé, ultra réaliste, ultra détaillé",
+    "prompt_en": "Realistic photo of the human body rejuvenating after a long day of stressed work, ultra realistic, ultra detailed",
+    "negative_prompt": "flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité",
+    "alt_text": "Photo réaliste du corps humain ressourçant après une longue journée",
+    "image_file": "l-impact-du-stress-sur-l-endormissement_para1.webp",
+    "timestamp": "2025-11-16T19:57:30.833563",
+    "traite": "oui"
+  },
+  {
+    "article": "l-impact-du-stress-sur-l-endormissement",
+    "paragraph": 2,
+    "prompt_fr": "Image représentant un espace calme avec des arbres, fleurs et lumière naturelle, ultra réaliste, ultra détaillé",
+    "prompt_en": "Image representing a calm space with trees, flowers and natural light, ultra realistic, ultra detailed",
+    "negative_prompt": "flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité",
+    "alt_text": "Image représentant un espace calme avec des arbres, fleurs et",
+    "image_file": "l-impact-du-stress-sur-l-endormissement_para2.webp",
+    "timestamp": "2025-11-16T20:20:33.696311",
+    "traite": "oui"
+  },
+  {
+    "article": "l-impact-du-stress-sur-l-endormissement",
+    "paragraph": 3,
+    "prompt_fr": "Vue aérienne montrant les paysages naturels dans la soirée, ultra réaliste, ultra détaillé",
+    "prompt_en": "Aerial view showing natural landscapes in the evening, ultra realistic, ultra detailed",
+    "negative_prompt": "flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité",
+    "alt_text": "Vue aérienne montrant les paysages naturels dans la soirée, ultra",
+    "image_file": "l-impact-du-stress-sur-l-endormissement_para3.webp",
+    "timestamp": "2025-11-16T20:43:20.721285",
+    "traite": "oui"
+  },
+  {
+    "article": "l-impact-du-stress-sur-l-endormissement",
+    "paragraph": 4,
+    "prompt_fr": "Portrait d'un personne soulagée et concentrée sur son travail, ultra réaliste, ultra détaillé",
+    "prompt_en": "Portrait of a person relieved and focused on his work, ultra realistic, ultra detailed",
+    "negative_prompt": "flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité",
+    "alt_text": "Portrait d'un personne soulagée et concentrée sur son travail, ultra",
+    "image_file": "l-impact-du-stress-sur-l-endormissement_para4.webp",
+    "timestamp": "2025-11-16T21:06:49.318616",
+    "traite": "oui"
+  },
+  {
+    "article": "les-avantages-de-la-m-ditation-pour-la-sant-mentale",
+    "paragraph": 1,
+    "prompt_fr": "Photo réaliste d'un individu se concentrant dans un jardin paisible, ultra réaliste, ultra détaillé",
+    "prompt_en": "Realistic photo of an individual concentrating in a peaceful garden, ultra realistic, ultra detailed",
+    "negative_prompt": "flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité",
+    "alt_text": "Photo réaliste d'un individu se concentrant dans un jardin paisible",
+    "image_file": "les-avantages-de-la-m-ditation-pour-la-sant-mentale_para1.webp",
+    "timestamp": "2025-11-16T21:28:13.831733",
+    "traite": "oui"
+  },
+  {
+    "article": "les-avantages-de-la-m-ditation-pour-la-sant-mentale",
+    "paragraph": 2,
+    "prompt_fr": "Image de montagne solitaire au sommet d'une vallée verdoyante, ultra réaliste, ultra détaillé",
+    "prompt_en": "Image of lonely mountain at the top of a green valley, ultra realistic, ultra detailed",
+    "negative_prompt": "flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité",
+    "alt_text": "Image de montagne solitaire au sommet d'une vallée verdoyante, ultra",
+    "image_file": "les-avantages-de-la-m-ditation-pour-la-sant-mentale_para2.webp",
+    "timestamp": "2025-11-16T21:49:34.041811",
+    "traite": "oui"
+  },
+  {
+    "article": "les-avantages-de-la-m-ditation-pour-la-sant-mentale",
+    "paragraph": 3,
+    "prompt_fr": "Scène du yoga avec des postures épurées et une ambiance calme, ultra réaliste, ultra détaillé",
+    "prompt_en": "Yoga scene with refined postures and a calm atmosphere, ultra realistic, ultra detailed",
+    "negative_prompt": "flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité",
+    "alt_text": "Scène du yoga avec des postures épurées et une ambiance",
+    "image_file": "les-avantages-de-la-m-ditation-pour-la-sant-mentale_para3.webp",
+    "timestamp": "2025-11-16T22:10:47.992864",
+    "traite": "oui"
+  },
+  {
+    "article": "les-avantages-de-la-m-ditation-pour-la-sant-mentale",
+    "paragraph": 4,
+    "prompt_fr": "Vue aérienne impressionnante d'une forêt désertique à la lumière naturelle, ultra réaliste, ultra détaillé",
+    "prompt_en": "Impressive aerial view of a desert forest in natural light, ultra realistic, ultra detailed",
+    "negative_prompt": "flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité",
+    "alt_text": "Vue aérienne impressionnante d'une forêt désertique à la lumière naturelle",
+    "image_file": "les-avantages-de-la-m-ditation-pour-la-sant-mentale_para4.webp",
+    "timestamp": "2025-11-16T22:32:05.125723",
+    "traite": "oui"
   }
 ]
