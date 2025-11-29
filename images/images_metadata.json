@@ -130,5 +130,148 @@
     "image_file": "comment l-ia revolutionne l-amelioration de la productivite_para4.webp",
     "timestamp": "2025-11-29T15:13:08.471961",
     "traite": "oui"
+  },
+  {
+    "article": "comment-lutter-contre-la-fatigue-motionnelle-travers-le-journal-intime",
+    "paragraph": 1,
+    "prompt_fr": "Le journal intime permet aux personnes souffrant de Fatigue Émotionalnelle (FEM) de _________, ultra réaliste, ultra détaillé",
+    "prompt_en": "The diary allows people suffering from Emotional Fatigue (EMF) to _________, ultra realistic, ultra detailed",
+    "negative_prompt": "flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité",
+    "alt_text": "Le journal intime permet aux personnes souffrant de Fatigue Émotionalnelle",
+    "image_file": "comment-lutter-contre-la-fatigue-motionnelle-travers-le-journal-intime_para1.webp",
+    "timestamp": "2025-11-29T18:48:53.577921",
+    "traite": "oui"
+  },
+  {
+    "article": "comment-lutter-contre-la-fatigue-motionnelle-travers-le-journal-intime",
+    "paragraph": 2,
+    "prompt_fr": "L'écriture du journal intime peut aider à améliorer la gestion des émotions en _________, ultra réaliste, ultra détaillé",
+    "prompt_en": "Writing a diary can help improve the management of emotions in _________, ultra realistic, ultra detailed",
+    "negative_prompt": "flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité",
+    "alt_text": "L'écriture du journal intime peut aider à améliorer la gestion",
+    "image_file": "comment-lutter-contre-la-fatigue-motionnelle-travers-le-journal-intime_para2.webp",
+    "timestamp": "2025-11-29T19:03:16.221651",
+    "traite": "oui"
+  },
+  {
+    "article": "comment-lutter-contre-la-fatigue-motionnelle-travers-le-journal-intime",
+    "paragraph": 3,
+    "prompt_fr": "Les gens qui utilisent le journal intime peuvent découvrir les solutions pour leurs problèmes personnels et professionnels grâce à l'aide d'une métaphore ?, ultra réaliste, ultra détaillé",
+    "prompt_en": "People who use the diary can discover solutions to their personal and professional problems with the help of a metaphor?, ultra realistic, ultra detailed",
+    "negative_prompt": "flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité",
+    "alt_text": "Les gens qui utilisent le journal intime peuvent découvrir les",
+    "image_file": "comment-lutter-contre-la-fatigue-motionnelle-travers-le-journal-intime_para3.webp",
+    "timestamp": "2025-11-29T19:18:02.941451",
+    "traite": "oui"
+  },
+  {
+    "article": "comment-lutter-contre-la-fatigue-motionnelle-travers-le-journal-intime",
+    "paragraph": 4,
+    "prompt_fr": "Le journal intime est un outil qui permet aux personnes souffrant de FEM de trouver une nouvelle perspective sur leur vie, ultra réaliste, ultra détaillé",
+    "prompt_en": "The diary is a tool that allows people suffering from FEM to find a new perspective on their life, ultra realistic, ultra detailed",
+    "negative_prompt": "flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité",
+    "alt_text": "Le journal intime est un outil qui permet aux personnes",
+    "image_file": "comment-lutter-contre-la-fatigue-motionnelle-travers-le-journal-intime_para4.webp",
+    "timestamp": "2025-11-29T19:33:55.234544",
+    "traite": "oui"
+  },
+  {
+    "article": "les-strat-gies-de-d-tox-pour-un-bien-tre-int-rieur",
+    "paragraph": 1,
+    "prompt_fr": "La purification corporelle par une alimentation saine nourrissant le corps à partir de sources naturelles, ultra réaliste, ultra détaillé",
+    "prompt_en": "Body purification through a healthy diet nourishing the body from natural sources, ultra realistic, ultra detailed",
+    "negative_prompt": "flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité",
+    "alt_text": "La purification corporelle par une alimentation saine nourrissant le corps",
+    "image_file": "les-strat-gies-de-d-tox-pour-un-bien-tre-int-rieur_para1.webp",
+    "timestamp": "2025-11-29T19:48:28.211878",
+    "traite": "oui"
+  },
+  {
+    "article": "les-strat-gies-de-d-tox-pour-un-bien-tre-int-rieur",
+    "paragraph": 2,
+    "prompt_fr": "L'amélioration des capacités cognitives en favorisant un état mental clair et concentré grâce à l'exercice physique et la méditation, ultra réaliste, ultra détaillé",
+    "prompt_en": "Improving cognitive abilities by promoting a clear and focused mental state through physical exercise and meditation, ultra realistic, ultra detailed",
+    "negative_prompt": "flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité",
+    "alt_text": "L'amélioration des capacités cognitives en favorisant un état mental clair",
+    "image_file": "les-strat-gies-de-d-tox-pour-un-bien-tre-int-rieur_para2.webp",
+    "timestamp": "2025-11-29T20:03:15.808090",
+    "traite": "oui"
+  },
+  {
+    "article": "les-strat-gies-de-d-tox-pour-un-bien-tre-int-rieur",
+    "paragraph": 3,
+    "prompt_fr": "Le développement d'une meilleure conscience intérieure via la pratique du yoga et la contemplation, ultra réaliste, ultra détaillé",
+    "prompt_en": "The development of better inner awareness through the practice of yoga and contemplation, ultra realistic, ultra detailed",
+    "negative_prompt": "flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité",
+    "alt_text": "Le développement d'une meilleure conscience intérieure via la pratique du",
+    "image_file": "les-strat-gies-de-d-tox-pour-un-bien-tre-int-rieur_para3.webp",
+    "timestamp": "2025-11-29T20:18:55.058266",
+    "traite": "oui"
+  },
+  {
+    "article": "les-strat-gies-de-d-tox-pour-un-bien-tre-int-rieur",
+    "paragraph": 4,
+    "prompt_fr": "La purification mentale par une gestion positive de ses émotions, qui permet de calmer les esprits et améliorer le bien-être intérieur, ultra réaliste, ultra détaillé",
+    "prompt_en": "Mental purification through positive management of one's emotions, which helps calm the mind and improve inner well-being, ultra realistic, ultra detailed",
+    "negative_prompt": "flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité",
+    "alt_text": "La purification mentale par une gestion positive de ses émotions",
+    "image_file": "les-strat-gies-de-d-tox-pour-un-bien-tre-int-rieur_para4.webp",
+    "timestamp": "2025-11-29T20:33:26.229575",
+    "traite": "oui"
+  },
+  {
+    "article": "comment-am-liorer-la-sant-mentale-avec-la-m-ditation",
+    "paragraph": 1,
+    "prompt_fr": "Imaginez une femme expérimentant la méditation dans un jardin paisible, entourée de verdure verte et d'une lumière douce du soleil, ultra réaliste, ultra détaillé",
+    "prompt_en": "Imagine a woman experiencing meditation in a peaceful garden, surrounded by green greenery and soft sunlight, ultra realistic, ultra detailed",
+    "negative_prompt": "flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité",
+    "alt_text": "Imaginez une femme expérimentant la méditation dans un jardin paisible",
+    "image_file": "comment-am-liorer-la-sant-mentale-avec-la-m-ditation_para1.webp",
+    "timestamp": "2025-11-29T20:47:47.384876",
+    "traite": "oui"
+  },
+  {
+    "article": "comment-am-liorer-la-sant-mentale-avec-la-m-ditation",
+    "paragraph": 2,
+    "prompt_fr": "Détaillez le processus de méditation en utilisant des termes spécifiques à l'expérience, ultra réaliste, ultra détaillé",
+    "prompt_en": "Detail the meditation process using terms specific to the experience, ultra realistic, ultra detailed",
+    "negative_prompt": "flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité",
+    "alt_text": "Détaillez le processus de méditation en utilisant des termes spécifiques",
+    "image_file": "comment-am-liorer-la-sant-mentale-avec-la-m-ditation_para2.webp",
+    "timestamp": "2025-11-29T21:02:25.049033",
+    "traite": "oui"
+  },
+  {
+    "article": "comment-am-liorer-la-sant-mentale-avec-la-m-ditation",
+    "paragraph": 3,
+    "prompt_fr": "Quelles sont les principales avantages de la méditation pour la santé mentale ?, ultra réaliste, ultra détaillé",
+    "prompt_en": "What are the main benefits of meditation for mental health?, ultra realistic, ultra detailed",
+    "negative_prompt": "flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité",
+    "alt_text": "Quelles sont les principales avantages de la méditation pour la",
+    "image_file": "comment-am-liorer-la-sant-mentale-avec-la-m-ditation_para3.webp",
+    "timestamp": "2025-11-29T21:17:22.138138",
+    "traite": "oui"
+  },
+  {
+    "article": "comment-am-liorer-la-sant-mentale-avec-la-m-ditation",
+    "paragraph": 4,
+    "prompt_fr": "Comment peut-on utiliser la méditation comme un outil pour améliorer ses relations avec nous-mêmes et les autres personnes ?, ultra réaliste, ultra détaillé",
+    "prompt_en": "How can we use meditation as a tool to improve our relationships with ourselves and other people?, ultra realistic, ultra detailed",
+    "negative_prompt": "flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité",
+    "alt_text": "Comment peut-on utiliser la méditation comme un outil pour améliorer",
+    "image_file": "comment-am-liorer-la-sant-mentale-avec-la-m-ditation_para4.webp",
+    "timestamp": "2025-11-29T21:32:19.644555",
+    "traite": "oui"
+  },
+  {
+    "article": "comment-lutter-contre-la-fatigue-motionnelle-travers-le-journal-intime",
+    "paragraph": 1,
+    "prompt_fr": "Le journal intime permet aux personnes souffrant de Fatigue Émotionalnelle (FEM) de _________, ultra réaliste, ultra détaillé",
+    "prompt_en": "The diary allows people suffering from Emotional Fatigue (EMF) to _________, ultra realistic, ultra detailed",
+    "negative_prompt": "flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité",
+    "alt_text": "Le journal intime permet aux personnes souffrant de Fatigue Émotionalnelle",
+    "image_file": "comment-lutter-contre-la-fatigue-motionnelle-travers-le-journal-intime_para1.webp",
+    "timestamp": "2025-11-30T00:08:27.119141",
+    "traite": "oui"
   }
 ]
