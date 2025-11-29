@@ -35,8 +35,46 @@
     "file_path": "C:\\Code Python\\mon-site\\content\\posts\\comment-utiliser-des-applications-mobiles-pour-g-rer-votre-sant-mentale.md"
   },
   {
-    "title": "Le rôle du stress dans les problèmes de vie privée",
-    "slug": "le-r-le-du-stress-dans-les-probl-mes-de-vie-priv-e",
-    "file_path": "C:\\Code Python\\mon-site\\content\\posts\\le-r-le-du-stress-dans-les-probl-mes-de-vie-priv-e.md"
+    "title": "La relation entre le stress et le risque de maladies chroniques",
+    "slug": "la-relation-entre-le-stress-et-le-risque-de-maladies-chroniques",
+    "file_path": "C:\\Code Python\\mon-site\\content\\posts\\la-relation-entre-le-stress-et-le-risque-de-maladies-chroniques.md"
+  },
+  {
+    "title": "Comment changer votre alimentation pour un meilleur bien-être",
+    "slug": "comment-changer-votre-alimentation-pour-un-meilleur-bien-tre",
+    "file_path": "C:\\Code Python\\mon-site\\content\\posts\\comment-changer-votre-alimentation-pour-un-meilleur-bien-tre.md"
+  },
+  {
+    "title": "L'impact du sommeil sur le mental et le corps",
+    "slug": "l-impact-du-sommeil-sur-le-mental-et-le-corps",
+    "file_path": "C:\\Code Python\\mon-site\\content\\posts\\l-impact-du-sommeil-sur-le-mental-et-le-corps.md"
+  },
+  {
+    "title": "L'impact du stress sur l'immunité",
+    "slug": "l-impact-du-stress-sur-l-immunit",
+    "file_path": "C:\\Code Python\\mon-site\\content\\posts\\l-impact-du-stress-sur-l-immunit.md"
+  },
+  {
+    "title": "La nutrition équilibrée : un guide pratique",
+    "slug": "la-nutrition-quilibr-e-un-guide-pratique",
+    "file_path": "C:\\Code Python\\mon-site\\content\\posts\\la-nutrition-quilibr-e-un-guide-pratique.md"
+  },
+  {
+    "title": "Comment choisir le bon médecin pour vous",
+    "slug": "comment-choisir-le-bon-m-decin-pour-vous",
+    "file_path": "C:\\Code Python\\mon-site\\content\\posts\\comment-choisir-le-bon-m-decin-pour-vous.md"
+  },
+  {
+    "title": "\"boosting immunity: top 10 superfoods for a healthier you\"",
+    "slug": "boosting-immunity-top-10-superfoods-for-a-healthier-you",
+    "file_path": "C:/Code Python/mon-site/content/posts\\boosting-immunity-top-10-superfoods-for-a-healthier-you.md"
+  },
+  {
+    "title": "\"comment améliorer la santé mentale avec la méditation\"",
+    "slug": "comment-am-liorer-la-sant-mentale-avec-la-m-ditation"
+  },
+  {
+    "title": "\"les bénéfices du yoga sur la santé physique et mentale\"",
+    "slug": "les-b-n-fices-du-yoga-sur-la-sant-physique-et-mentale"
   }
 ]
