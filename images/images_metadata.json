@@ -273,5 +273,137 @@
     "image_file": "comment-lutter-contre-la-fatigue-motionnelle-travers-le-journal-intime_para1.webp",
     "timestamp": "2025-11-30T00:08:27.119141",
     "traite": "oui"
+  },
+  {
+    "article": "comment-am-liorer-la-sant-mentale-avec-la-m-ditation",
+    "paragraph": 1,
+    "prompt_fr": "La méditation peut-elle améliorer les capacités cognitives ?, ultra réaliste, ultra détaillé",
+    "prompt_en": "Can meditation improve cognitive abilities?, ultra realistic, ultra detailed",
+    "negative_prompt": "flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité",
+    "alt_text": "La méditation peut-elle améliorer les capacités cognitives ?, ultra réaliste",
+    "image_file": "comment-am-liorer-la-sant-mentale-avec-la-m-ditation_para1.webp",
+    "timestamp": "2025-11-30T12:25:10.520742",
+    "traite": "oui"
+  },
+  {
+    "article": "comment-am-liorer-la-sant-mentale-avec-la-m-ditation",
+    "paragraph": 2,
+    "prompt_fr": "Quelles sont les effets positifs de la méditation sur le corps humain ?, ultra réaliste, ultra détaillé",
+    "prompt_en": "What are the positive effects of meditation on the human body?, ultra realistic, ultra detailed",
+    "negative_prompt": "flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité",
+    "alt_text": "Quelles sont les effets positifs de la méditation sur le",
+    "image_file": "comment-am-liorer-la-sant-mentale-avec-la-m-ditation_para2.webp",
+    "timestamp": "2025-11-30T12:41:15.345950",
+    "traite": "oui"
+  },
+  {
+    "article": "comment-am-liorer-la-sant-mentale-avec-la-m-ditation",
+    "paragraph": 3,
+    "prompt_fr": "Comment la méditation peut-elle contribuer à une meilleure gestion du stress ?, ultra réaliste, ultra détaillé",
+    "prompt_en": "How can meditation contribute to better stress management?, ultra realistic, ultra detailed",
+    "negative_prompt": "flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité",
+    "alt_text": "Comment la méditation peut-elle contribuer à une meilleure gestion du",
+    "image_file": "comment-am-liorer-la-sant-mentale-avec-la-m-ditation_para3.webp",
+    "timestamp": "2025-11-30T12:56:37.799732",
+    "traite": "oui"
+  },
+  {
+    "article": "comment-am-liorer-la-sant-mentale-avec-la-m-ditation",
+    "paragraph": 4,
+    "prompt_fr": "Quelles sont les avantages pour l'esprit et le corps en pratiquant régulièrement la méditation ?, ultra réaliste, ultra détaillé",
+    "prompt_en": "What are the benefits for the mind and body of practicing meditation regularly?, ultra realistic, ultra detailed",
+    "negative_prompt": "flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité",
+    "alt_text": "Quelles sont les avantages pour l'esprit et le corps en",
+    "image_file": "comment-am-liorer-la-sant-mentale-avec-la-m-ditation_para4.webp",
+    "timestamp": "2025-11-30T13:13:59.105726",
+    "traite": "oui"
+  },
+  {
+    "article": "le-r-le-de-la-di-t-tique-dans-l-am-lioration-de-la-qualit-de-vie",
+    "paragraph": 1,
+    "prompt_fr": "La dietetique permet-elle d'améliorer les niveaux de nutriments dans le corps ?, ultra réaliste, ultra détaillé",
+    "prompt_en": "Does diet improve nutrient levels in the body?, ultra realistic, ultra detailed",
+    "negative_prompt": "flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité",
+    "alt_text": "La dietetique permet-elle d'améliorer les niveaux de nutriments dans le",
+    "image_file": "le-r-le-de-la-di-t-tique-dans-l-am-lioration-de-la-qualit-de-vie_para1.webp",
+    "timestamp": "2025-11-30T13:28:47.760394",
+    "traite": "oui"
+  },
+  {
+    "article": "le-r-le-de-la-di-t-tique-dans-l-am-lioration-de-la-qualit-de-vie",
+    "paragraph": 2,
+    "prompt_fr": "Quelles sont les avantages pour les personnes qui adoptent une alimentation saine ?, ultra réaliste, ultra détaillé",
+    "prompt_en": "What are the benefits for people who adopt a healthy diet?, ultra realistic, ultra detailed",
+    "negative_prompt": "flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité",
+    "alt_text": "Quelles sont les avantages pour les personnes qui adoptent une",
+    "image_file": "le-r-le-de-la-di-t-tique-dans-l-am-lioration-de-la-qualit-de-vie_para2.webp",
+    "timestamp": "2025-11-30T13:43:31.043607",
+    "traite": "oui"
+  },
+  {
+    "article": "le-r-le-de-la-di-t-tique-dans-l-am-lioration-de-la-qualit-de-vie",
+    "paragraph": 3,
+    "prompt_fr": "Comment la diététique peut-elle contribuer à l'amélioration du sommeil et des capacités cognitives ?, ultra réaliste, ultra détaillé",
+    "prompt_en": "How can dietetics contribute to improving sleep and cognitive abilities?, ultra realistic, ultra detailed",
+    "negative_prompt": "flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité",
+    "alt_text": "Comment la diététique peut-elle contribuer à l'amélioration du sommeil et",
+    "image_file": "le-r-le-de-la-di-t-tique-dans-l-am-lioration-de-la-qualit-de-vie_para3.webp",
+    "timestamp": "2025-11-30T17:20:32.943380",
+    "traite": "oui"
+  },
+  {
+    "article": "le-r-le-de-la-di-t-tique-dans-l-am-lioration-de-la-qualit-de-vie",
+    "paragraph": 4,
+    "prompt_fr": "Quelles mesures peuvent être prises par les individus pour adopter une alimentation saine ?, ultra réaliste, ultra détaillé",
+    "prompt_en": "What steps can individuals take to adopt a healthy diet?, ultra realistic, ultra detailed",
+    "negative_prompt": "flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité",
+    "alt_text": "Quelles mesures peuvent être prises par les individus pour adopter",
+    "image_file": "le-r-le-de-la-di-t-tique-dans-l-am-lioration-de-la-qualit-de-vie_para4.webp",
+    "timestamp": "2025-11-30T17:35:20.987057",
+    "traite": "oui"
+  },
+  {
+    "article": "les-strat-gies-de-d-tox-pour-un-bien-tre-int-rieur",
+    "paragraph": 1,
+    "prompt_fr": "La detox mentale utilise-t-elle des techniques physiques pour apaiser les esprits ?, ultra réaliste, ultra détaillé",
+    "prompt_en": "Does mental detox use physical techniques to calm the mind?, ultra realistic, ultra detailed",
+    "negative_prompt": "flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité",
+    "alt_text": "La detox mentale utilise-t-elle des techniques physiques pour apaiser les",
+    "image_file": "les-strat-gies-de-d-tox-pour-un-bien-tre-int-rieur_para1.webp",
+    "timestamp": "2025-11-30T17:50:08.494373",
+    "traite": "oui"
+  },
+  {
+    "article": "les-strat-gies-de-d-tox-pour-un-bien-tre-int-rieur",
+    "paragraph": 2,
+    "prompt_fr": "L'exercice physique peut-il être utilisé comme une stratégie de Detox ?, ultra réaliste, ultra détaillé",
+    "prompt_en": "Can physical exercise be used as a Detox strategy?, ultra realistic, ultra detailed",
+    "negative_prompt": "flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité",
+    "alt_text": "L'exercice physique peut-il être utilisé comme une stratégie de Detox",
+    "image_file": "les-strat-gies-de-d-tox-pour-un-bien-tre-int-rieur_para2.webp",
+    "timestamp": "2025-11-30T18:04:58.059359",
+    "traite": "oui"
+  },
+  {
+    "article": "les-strat-gies-de-d-tox-pour-un-bien-tre-int-rieur",
+    "paragraph": 3,
+    "prompt_fr": "Quelles stratégies alimentaires peuvent être utilisées dans une detox spirituelle ?, ultra réaliste, ultra détaillé",
+    "prompt_en": "What dietary strategies can be used in a spiritual detox?, ultra realistic, ultra detailed",
+    "negative_prompt": "flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité",
+    "alt_text": "Quelles stratégies alimentaires peuvent être utilisées dans une detox spirituelle",
+    "image_file": "les-strat-gies-de-d-tox-pour-un-bien-tre-int-rieur_para3.webp",
+    "timestamp": "2025-11-30T18:19:49.152634",
+    "traite": "oui"
+  },
+  {
+    "article": "les-strat-gies-de-d-tox-pour-un-bien-tre-int-rieur",
+    "paragraph": 4,
+    "prompt_fr": "Comment la méditation peut contribuer à un detoxification interne ?, ultra réaliste, ultra détaillé",
+    "prompt_en": "How meditation can contribute to internal detoxification?, ultra realistic, ultra detailed",
+    "negative_prompt": "flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité",
+    "alt_text": "Comment la méditation peut contribuer à un detoxification interne ?",
+    "image_file": "les-strat-gies-de-d-tox-pour-un-bien-tre-int-rieur_para4.webp",
+    "timestamp": "2025-11-30T18:33:57.019209",
+    "traite": "oui"
   }
 ]
