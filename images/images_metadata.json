@@ -405,5 +405,93 @@
     "image_file": "les-strat-gies-de-d-tox-pour-un-bien-tre-int-rieur_para4.webp",
     "timestamp": "2025-11-30T18:33:57.019209",
     "traite": "oui"
+  },
+  {
+    "article": "les-bienfaits-des-pratiques-de-relaxation-pour-la-sant-mentale",
+    "paragraph": 1,
+    "prompt_fr": "La métaphore du refuge offre un aperçu intérieur à la paix et au équilibre mental, ultra réaliste, ultra détaillé",
+    "prompt_en": "The metaphor of refuge offers an inner insight into peace and mental balance, ultra realistic, ultra detailed",
+    "negative_prompt": "flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité",
+    "alt_text": "La métaphore du refuge offre un aperçu intérieur à la",
+    "image_file": "les-bienfaits-des-pratiques-de-relaxation-pour-la-sant-mentale_para1.webp",
+    "timestamp": "2025-11-30T21:05:56.706192",
+    "traite": "oui"
+  },
+  {
+    "article": "les-bienfaits-des-pratiques-de-relaxation-pour-la-sant-mentale",
+    "paragraph": 2,
+    "prompt_fr": "L'accent est mis sur les techniques qui réduisent le stress, l'anxiété et la douleur physique, ultra réaliste, ultra détaillé",
+    "prompt_en": "Focus is on techniques that reduce stress, anxiety and physical pain, ultra realistic, ultra detailed",
+    "negative_prompt": "flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité",
+    "alt_text": "L'accent est mis sur les techniques qui réduisent le stress",
+    "image_file": "les-bienfaits-des-pratiques-de-relaxation-pour-la-sant-mentale_para2.webp",
+    "timestamp": "2025-11-30T21:20:12.653015",
+    "traite": "oui"
+  },
+  {
+    "article": "les-bienfaits-des-pratiques-de-relaxation-pour-la-sant-mentale",
+    "paragraph": 3,
+    "prompt_fr": "Les débutants peuvent utiliser des pratiques relaxation comme une forme de pratique quotidienne pour se sentir mieux dans leur vie, ultra réaliste, ultra détaillé",
+    "prompt_en": "Beginners can use relaxation practices as a form of daily practice to feel better about their life, ultra realistic, ultra detailed",
+    "negative_prompt": "flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité",
+    "alt_text": "Les débutants peuvent utiliser des pratiques relaxation comme une forme",
+    "image_file": "les-bienfaits-des-pratiques-de-relaxation-pour-la-sant-mentale_para3.webp",
+    "timestamp": "2025-11-30T21:35:11.695521",
+    "traite": "oui"
+  },
+  {
+    "article": "les-bienfaits-des-pratiques-de-relaxation-pour-la-sant-mentale",
+    "paragraph": 4,
+    "prompt_fr": "La métaphore du refuge implique un espace intérieur calme et reflétant, ultra réaliste, ultra détaillé",
+    "prompt_en": "The refuge metaphor implies a calm and reflective interior space, ultra realistic, ultra detailed",
+    "negative_prompt": "flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité",
+    "alt_text": "La métaphore du refuge implique un espace intérieur calme et",
+    "image_file": "les-bienfaits-des-pratiques-de-relaxation-pour-la-sant-mentale_para4.webp",
+    "timestamp": "2025-11-30T21:49:09.384662",
+    "traite": "oui"
+  },
+  {
+    "article": "le-bien-tre-dans-la-vie-quotidienne-quelles-habitudes-adopter",
+    "paragraph": 1,
+    "prompt_fr": "Quelles sont les conséquences négatives que peuvent avoir des habitudes mal définies ?, ultra réaliste, ultra détaillé",
+    "prompt_en": "What are the negative consequences that poorly defined habits can have?, ultra realistic, ultra detailed",
+    "negative_prompt": "flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité",
+    "alt_text": "Quelles sont les conséquences négatives que peuvent avoir des habitudes",
+    "image_file": "le-bien-tre-dans-la-vie-quotidienne-quelles-habitudes-adopter_para1.webp",
+    "timestamp": "2025-11-30T22:03:08.805691",
+    "traite": "oui"
+  },
+  {
+    "article": "le-bien-tre-dans-la-vie-quotidienne-quelles-habitudes-adopter",
+    "paragraph": 2,
+    "prompt_fr": "Comment peut-on utiliser le résumé comme un point de départ pour créer une nouvelle scène ?, ultra réaliste, ultra détaillé",
+    "prompt_en": "How can we use the summary as a starting point to create a new scene?, ultra realistic, ultra detailed",
+    "negative_prompt": "flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité",
+    "alt_text": "Comment peut-on utiliser le résumé comme un point de départ",
+    "image_file": "le-bien-tre-dans-la-vie-quotidienne-quelles-habitudes-adopter_para2.webp",
+    "timestamp": "2025-11-30T22:17:07.746190",
+    "traite": "oui"
+  },
+  {
+    "article": "le-bien-tre-dans-la-vie-quotidienne-quelles-habitudes-adopter",
+    "paragraph": 3,
+    "prompt_fr": "Quelles ressources numériques pourraient être utilisées pour illustrer la relation entre l'exercice et le bien-être physique ?, ultra réaliste, ultra détaillé",
+    "prompt_en": "What digital resources could be used to illustrate the relationship between exercise and physical well-being?, ultra realistic, ultra detailed",
+    "negative_prompt": "flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité",
+    "alt_text": "Quelles ressources numériques pourraient être utilisées pour illustrer la relation",
+    "image_file": "le-bien-tre-dans-la-vie-quotidienne-quelles-habitudes-adopter_para3.webp",
+    "timestamp": "2025-11-30T22:31:05.291416",
+    "traite": "oui"
+  },
+  {
+    "article": "le-bien-tre-dans-la-vie-quotidienne-quelles-habitudes-adopter",
+    "paragraph": 4,
+    "prompt_fr": "Quel est le rôle du temps dans la pratique quotidienne ?, ultra réaliste, ultra détaillé",
+    "prompt_en": "What is the role of time in daily practice?, ultra realistic, ultra detailed",
+    "negative_prompt": "flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité",
+    "alt_text": "Quel est le rôle du temps dans la pratique quotidienne",
+    "image_file": "le-bien-tre-dans-la-vie-quotidienne-quelles-habitudes-adopter_para4.webp",
+    "timestamp": "2025-11-30T22:45:10.856364",
+    "traite": "oui"
   }
 ]
