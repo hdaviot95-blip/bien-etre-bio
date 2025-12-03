@@ -493,5 +493,93 @@
     "image_file": "le-bien-tre-dans-la-vie-quotidienne-quelles-habitudes-adopter_para4.webp",
     "timestamp": "2025-11-30T22:45:10.856364",
     "traite": "oui"
+  },
+  {
+    "article": "comment-se-soigner-soi-m-me-au-quotidien",
+    "paragraph": 1,
+    "prompt_fr": "La santé mentale est-, ultra réaliste, ultra détaillé",
+    "prompt_en": "Mental health is, ultra realistic, ultra detailed",
+    "negative_prompt": "flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité",
+    "alt_text": "La santé mentale est-, ultra réaliste, ultra détaillé",
+    "image_file": "comment-se-soigner-soi-m-me-au-quotidien_para1.webp",
+    "timestamp": "2025-12-02T19:17:52.990740",
+    "traite": "oui"
+  },
+  {
+    "article": "comment-se-soigner-soi-m-me-au-quotidien",
+    "paragraph": 2,
+    "prompt_fr": "L'exercice physique permet d'améliorer, ultra réaliste, ultra détaillé",
+    "prompt_en": "Physical exercise helps improve, ultra realistic, ultra detailed",
+    "negative_prompt": "flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité",
+    "alt_text": "L'exercice physique permet d'améliorer, ultra réaliste, ultra détaillé",
+    "image_file": "comment-se-soigner-soi-m-me-au-quotidien_para2.webp",
+    "timestamp": "2025-12-02T19:32:16.599161",
+    "traite": "oui"
+  },
+  {
+    "article": "comment-se-soigner-soi-m-me-au-quotidien",
+    "paragraph": 3,
+    "prompt_fr": "Les aliments clés pour une bonne santé sont-ils...?, ultra réaliste, ultra détaillé",
+    "prompt_en": "Are the key foods for good health...?, ultra realistic, ultra detailed",
+    "negative_prompt": "flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité",
+    "alt_text": "Les aliments clés pour une bonne santé sont-ils...?, ultra réaliste",
+    "image_file": "comment-se-soigner-soi-m-me-au-quotidien_para3.webp",
+    "timestamp": "2025-12-02T19:46:44.391810",
+    "traite": "oui"
+  },
+  {
+    "article": "comment-se-soigner-soi-m-me-au-quotidien",
+    "paragraph": 4,
+    "prompt_fr": "Le sommeil est essentiel pour la ... ?, ultra réaliste, ultra détaillé",
+    "prompt_en": "Sleep is essential for...?, ultra realistic, ultra detailed",
+    "negative_prompt": "flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité",
+    "alt_text": "Le sommeil est essentiel pour la ... ?, ultra réaliste",
+    "image_file": "comment-se-soigner-soi-m-me-au-quotidien_para4.webp",
+    "timestamp": "2025-12-02T20:01:09.048672",
+    "traite": "oui"
+  },
+  {
+    "article": "le-r-le-des-sports-de-plein-air-dans-la-pr-vention-du-stress",
+    "paragraph": 1,
+    "prompt_fr": "Un moment unique où les sportifs se délectent des sensations fortes du sport, ultra réaliste, ultra détaillé",
+    "prompt_en": "A unique moment where athletes delight in the thrill of sport, ultra realistic, ultra detailed",
+    "negative_prompt": "flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité",
+    "alt_text": "Un moment unique où les sportifs se délectent des sensations",
+    "image_file": "le-r-le-des-sports-de-plein-air-dans-la-pr-vention-du-stress_para1.webp",
+    "timestamp": "2025-12-02T20:15:33.662157",
+    "traite": "oui"
+  },
+  {
+    "article": "le-r-le-des-sports-de-plein-air-dans-la-pr-vention-du-stress",
+    "paragraph": 2,
+    "prompt_fr": "La sensation d'accomplissement et de satisfaction après avoir terminé un exercice difficile, ultra réaliste, ultra détaillé",
+    "prompt_en": "The feeling of accomplishment and satisfaction after completing a difficult, ultra realistic, ultra detailed exercise",
+    "negative_prompt": "flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité",
+    "alt_text": "La sensation d'accomplissement et de satisfaction après avoir terminé un",
+    "image_file": "le-r-le-des-sports-de-plein-air-dans-la-pr-vention-du-stress_para2.webp",
+    "timestamp": "2025-12-03T18:48:42.004032",
+    "traite": "oui"
+  },
+  {
+    "article": "le-r-le-des-sports-de-plein-air-dans-la-pr-vention-du-stress",
+    "paragraph": 3,
+    "prompt_fr": "L'impression générale que le corps est en meilleure santé lorsqu'il pratique des sports de plein air, ultra réaliste, ultra détaillé",
+    "prompt_en": "The general impression that the body is healthier when practicing outdoor sports, ultra realistic, ultra detailed",
+    "negative_prompt": "flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité",
+    "alt_text": "L'impression générale que le corps est en meilleure santé lorsqu'il",
+    "image_file": "le-r-le-des-sports-de-plein-air-dans-la-pr-vention-du-stress_para3.webp",
+    "timestamp": "2025-12-03T19:04:25.839386",
+    "traite": "oui"
+  },
+  {
+    "article": "le-r-le-des-sports-de-plein-air-dans-la-pr-vention-du-stress",
+    "paragraph": 4,
+    "prompt_fr": "Le plaisir de partager ses activités avec les autres personnes qui partagent son intérêt pour la nature, ultra réaliste, ultra détaillé",
+    "prompt_en": "The pleasure of sharing your activities with other people who share your interest in nature, ultra realistic, ultra detailed",
+    "negative_prompt": "flou, déformé, texte, watermark, logo, mauvaise anatomie, mains ratées, ombres irréalistes, visages mal formés, basse qualité",
+    "alt_text": "Le plaisir de partager ses activités avec les autres personnes",
+    "image_file": "le-r-le-des-sports-de-plein-air-dans-la-pr-vention-du-stress_para4.webp",
+    "timestamp": "2025-12-03T19:19:39.870595",
+    "traite": "oui"
   }
 ]
